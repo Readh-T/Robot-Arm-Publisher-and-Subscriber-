@@ -1,0 +1,13 @@
+<package>
+  <description brief="g3_robot_control">
+
+     g3_robot_control
+
+  </description>
+  <author>user</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/g3_robot_control</url>
+  <depend package="urdf"/>
+
+</package>
